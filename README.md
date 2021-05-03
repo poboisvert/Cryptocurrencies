@@ -19,7 +19,7 @@ Clustering is one of the most common exploratory data analysis technique used to
 
 ![kmeans](Resources/img/table.png)
 
-Most of the cryptocurrencies are part of class #0 and #3, but we only have one (BitTorrent) in class #2.
+Most of the cryptocurrencies are part of class #0 and #1, but we only have one (BitTorrent) in class #2.
 
 ### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
 
